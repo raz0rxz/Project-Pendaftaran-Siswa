@@ -1,0 +1,16 @@
+
+body {
+ background-color:white;
+ font-family:verdana, Helvetica, sans-serif;
+ color:#000;
+}
+h1{
+	text-align: center;
+	font-family:verdana, Helvetica, sans-serif;
+ 	color:black;
+}
+
+
+.isi {
+	width: 82%;
+}
